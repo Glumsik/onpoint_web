@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8695052.chunk.css",
+    "main.js": "/static/js/main.a58cfbe5.chunk.js",
+    "main.js.map": "/static/js/main.a58cfbe5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8c5b4be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8c5b4be.js.map",
+    "static/js/2.8dcc7bf1.chunk.js": "/static/js/2.8dcc7bf1.chunk.js",
+    "static/js/2.8dcc7bf1.chunk.js.map": "/static/js/2.8dcc7bf1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e1404a8da8e3e4d70ed41d90b418c0d4.js": "/precache-manifest.e1404a8da8e3e4d70ed41d90b418c0d4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c8695052.chunk.css.map": "/static/css/main.c8695052.chunk.css.map",
+    "static/js/2.8dcc7bf1.chunk.js.LICENSE.txt": "/static/js/2.8dcc7bf1.chunk.js.LICENSE.txt",
+    "static/media/sectionThird.scss": "/static/media/ice_4.a310c685.png",
+    "static/media/sectionSecond.scss": "/static/media/ice_3.89f148e5.png",
+    "static/media/sectionFirst.scss": "/static/media/bg_section1.d3883d31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c5b4be.js",
+    "static/js/2.8dcc7bf1.chunk.js",
+    "static/css/main.c8695052.chunk.css",
+    "static/js/main.a58cfbe5.chunk.js"
+  ]
+}
